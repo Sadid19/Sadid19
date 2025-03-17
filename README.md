@@ -1,5 +1,5 @@
-<h2 align="left">Hi 👋! I'm Md. Ibtihazzaman. 
-# I'm a Computer Science student & tech enthusiast from Dhaka, Bangladesh.<br><br>🎓 Currently pursuing a Bachelor’s degree in Computer Science and Engineering (CSE) at AIUB<br>💡 Passionate about Academic Research, Software Development, AI, and Machine Learning</h2>
+<h2 align="left">Hi 👋! I'm Md. Ibtihazzaman. <br>
+I'm a Computer Science student & tech enthusiast from Dhaka, Bangladesh.<br><br>🎓 Currently pursuing a Bachelor’s degree in Computer Science and Engineering (CSE) at AIUB<br>💡 Passionate about Academic Research, Software Development, AI, and Machine Learning</h2>
 
 ###
 
