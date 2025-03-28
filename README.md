@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Md. Ibtihazzaman. <br>
+<h2 align="left">Hi 👋! This is Md. Ibtihazzaman. <br>
 I'm a Computer Science student & tech enthusiast from Dhaka, Bangladesh.<br><br>🎓 Currently pursuing a Bachelor’s degree in Computer Science and Engineering (CSE) at AIUB<br>💡 Passionate about Academic Research, Software Development, and Machine Learning</h2>
 
 ###
