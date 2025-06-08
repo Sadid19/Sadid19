@@ -136,14 +136,19 @@
   <a href="https://www.instagram.com/sadid_dont_exist" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" />
   </a>
- <a href="mailto:mdibtihazzaman@gmail.com?subject=Hello%20Md.%20Ibtihazzaman&body=Hi%20there%2C%0A%0AI%20just%20visited%20your%20GitHub%20profile.%20It%27s%20awesome!">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
-</a>
   <a href="https://www.linkedin.com/in/md-ibtihazzaman-0131a0259/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
 </div>
 
+###
+
+**📫 Let's build something awesome — reach me at:**  
+<div align="center">
+
+<pre style="background-color: #1e1e1e; color: #22D3EE; padding: 12px 18px; border-radius: 8px; font-size: 1.1rem; display: inline-block; overflow-x: auto;">mdibtihazzaman@gmail.com</pre>
+
+###
 ---
 
 <br>
