@@ -144,7 +144,7 @@
 **📫 Let's build something awesome — reach me at:**  
 <div align="center">
 
-<pre style="background-color: #1e1e1e; color: #22D3EE; padding: 12px 18px; border-radius: 8px; font-size: 2.5rem; display: inline-block; overflow-x: auto;">mdibtihazzaman@gmail.com</pre>
+<pre style="background-color: #1e1e1e; color: #22D3EE; padding: 12px 18px; border-radius: 8px; font-size: 2.5rem; display: inline-block; overflow-x: auto;">ibtihazzaman@gmail.com</pre>
 
 ---
 
