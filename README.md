@@ -103,7 +103,7 @@
 <h2 align="center">🚀 GitHub Journey So Far</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sadid19&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub stats" />
-  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=Sadid19&theme=tokyonight&hide_border=true" width="48%" alt="GitHub streak stats](https://github-readme-streak-stats-eight.vercel.app/?user=Sadid19&theme=tokyonight&hide_border=true)" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Sadid19&theme=tokyonight&hide_border=true" />
 </div>
 <div align="center" style="margin-top: 15px;">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sadid19&theme=react-dark&hide_border=true&area=true" width="90%" alt="GitHub activity graph" />
