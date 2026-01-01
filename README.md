@@ -8,7 +8,7 @@
 
 <p align="center">
   <strong>How's your day going?</strong> 😊<br>
-  Feel free to explore my repositories, connect with me, or drop a ⭐ if you find something interesting!
+  Feel free to explore my repositories, connect with me or drop a ⭐ if you find something interesting!
 </p>
 
 ###
