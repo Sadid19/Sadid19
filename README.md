@@ -29,7 +29,7 @@
 <p align="center">
   🎓 Currently pursuing a Bachelor’s degree in Computer Science and Engineering (CSE) at AIUB<br>
   💡 Passionate about Academic Research, Software Development and Machine Learning<br>
-  🌱 Currently learning Software Engineering fundamentals and Competitive programming (CP)
+  🌱 Currently learning Software Development and SQA
 </p>
 
 
